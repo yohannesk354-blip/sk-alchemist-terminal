@@ -1,5 +1,5 @@
 # ⚡ SK Sequence & Alchemist MSNR Institutional Terminal
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=yohannesk354-blip/sk-alchemist-terminal&branch=main&mainModule=app.py)
 
 A quantitative Bloomberg-style trading terminal combining **Stefan Kassing (SK) Fibonacci Sequence Theory**, **Alchemist Malaysian Support and Resistance (MSNR)** price action frameworks, **CFTC Commitments of Traders (COT)** institutional data, and **Economic News Calendar (ECO <GO>)**.
 
