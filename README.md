@@ -1,8 +1,18 @@
 # ⚡ SK Sequence & Alchemist MSNR Institutional Terminal
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
 
-A quantitative trading terminal combining **Stefan Kassing (SK) Fibonacci Sequence Theory** with **Alchemist Malaysian Support and Resistance (MSNR)** price action frameworks.
+A quantitative Bloomberg-style trading terminal combining **Stefan Kassing (SK) Fibonacci Sequence Theory**, **Alchemist Malaysian Support and Resistance (MSNR)** price action frameworks, **CFTC Commitments of Traders (COT)** institutional data, and **Economic News Calendar (ECO <GO>)**.
 
 ---
+
+## 🌐 100% Free Cloud Hosting (No Credit Card Required)
+
+This application can be deployed for **$0.00 / free forever** using **Streamlit Community Cloud** connected directly to GitHub:
+
+1. Push this repository to your GitHub account.
+2. Go to **[share.streamlit.io](https://share.streamlit.io)** and log in with your GitHub account.
+3. Click **"New app"**, select your repository, set the main file path to `app.py`, and click **"Deploy!"**.
+4. Your terminal will be live on the web with a custom URL (e.g. `https://your-terminal.streamlit.app`).
 
 ## 🏛️ System Architecture
 
